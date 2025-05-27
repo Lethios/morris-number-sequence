@@ -1,5 +1,5 @@
 """
-Morris Number (Look-and-Say) Sequence Generator
+Morris Number (Look-and-Say) Generator
 
 This module provides functionality to compute and display terms in the 
 Morris number sequence, also known as the look-and-say sequence. Each term 
